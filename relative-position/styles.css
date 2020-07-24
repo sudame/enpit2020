@@ -1,0 +1,28 @@
+html,
+body {
+    padding: 0;
+    margin: 0;
+}
+
+* {
+    border: 1px solid red;
+}
+
+.wrapper {
+    padding: 100px;
+}
+
+.container {
+    width: 300px;
+    position: relative;
+}
+
+.text {
+    position: relative;
+    left: -30px;
+}
+
+.shamiko {
+    display: block;
+    width: 100%;
+}
